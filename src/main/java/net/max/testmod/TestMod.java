@@ -3,6 +3,7 @@ package net.max.testmod;
 import net.fabricmc.api.ModInitializer;
 
 import net.max.testmod.Item.ModItems;
+import net.max.testmod.Item.ModItemGroups;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,6 +14,7 @@ public class TestMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 	}
 }
