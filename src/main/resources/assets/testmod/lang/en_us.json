@@ -5,5 +5,9 @@
   "itemgroup.ruby": "Ruby Test Group",
 
   "block.testmod.ruby_block": "Block of Ruby",
-  "block.testmod.raw_ruby_block": "Raw Block of Ruby"
+  "block.testmod.raw_ruby_block": "Raw Block of Ruby",
+
+  "block.testmod.ruby_ore": "Ruby Ore",
+  "block.testmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.testmod.nether_ruby_ore": "Nether Ruby Ore"
 }
