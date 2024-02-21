@@ -22,6 +22,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RUBY_ORE);
                         entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
                         entries.add(ModBlocks.NETHER_RUBY_ORE);
+                        entries.add(ModItems.ONION);
+                        entries.add(ModItems.ONION_SEEDS);
 
 
                     }).build());

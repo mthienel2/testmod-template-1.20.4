@@ -2,6 +2,9 @@
   "item.testmod.ruby": "Ruby",
   "item.testmod.raw_ruby": "Raw Ruby",
 
+  "item.testmod.onion": "Onion",
+  "item.testmod.onion_seeds": "Onion Seeds",
+
   "itemgroup.ruby": "Ruby Test Group",
 
   "block.testmod.ruby_block": "Block of Ruby",
