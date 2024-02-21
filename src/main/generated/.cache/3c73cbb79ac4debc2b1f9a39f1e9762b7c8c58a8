@@ -1,0 +1,18 @@
+// 1.20.4	2024-02-20T20:54:17.2847603	Testmod/Model Definitions
+3cfd050f942051df134bb7ef558be742d26be7df assets\testmod\blockstates\ruby_block.json
+5357d42e1cf4c959074586cc48c957e61433740a assets\testmod\models\block\ruby_block.json
+cdfd550802d9de05915f2041480bb89b369edf6f assets\testmod\models\item\ruby.json
+270bcc790403837a6b22467975b88fd12aa5f447 assets\testmod\models\item\raw_ruby_block.json
+5a3228b1e63d2ab386197299c5cef4a73d9a5fe9 assets\testmod\models\item\deepslate_ruby_ore.json
+8866b104187e336039cee68cd54284a7b1e76718 assets\testmod\models\block\nether_ruby_ore.json
+7420887092f8b262e296f9b2d9a45397fbd487d8 assets\testmod\models\item\nether_ruby_ore.json
+35aa81ba5c2e59b3b28c76c7459ea4aad8d539bc assets\testmod\models\item\raw_ruby.json
+b876749ff7ba5ae72bb9308631d3830660f3682f assets\testmod\blockstates\deepslate_ruby_ore.json
+55d00b29b167b03b5d8c83146b79effb672e1798 assets\testmod\blockstates\ruby_ore.json
+667087b5b5991aac2e50f0f6a6e8e5d89a207c1c assets\testmod\models\item\ruby_block.json
+6cd8e29d744d3a18c8762b3190b7fcd9fdc69d1e assets\testmod\models\item\ruby_ore.json
+1a3a066541a9a8cb00947f9db168a212e76ab4cd assets\testmod\models\block\raw_ruby_block.json
+d4d8bd366bb67c8a262b09541d2afc49b0afd1f8 assets\testmod\blockstates\raw_ruby_block.json
+21b0e82f55041c3b348cb08350d6bb612198ca3f assets\testmod\models\block\ruby_ore.json
+468ae978e12ce429c8e64e2bbc7b489302d739fb assets\testmod\blockstates\nether_ruby_ore.json
+4641b49e6193aa8c17a95de3f7becccfdc47f3cd assets\testmod\models\block\deepslate_ruby_ore.json
