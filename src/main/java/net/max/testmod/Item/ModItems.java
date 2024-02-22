@@ -18,6 +18,8 @@ public class ModItems {
 
     public static final Item ONION = registerItem("onion", new Item(new FabricItemSettings().food(ModFoodComponents.ONION)));
 
+    public static final Item PORK_WITH_ONIONS = registerItem("pork_with_onions", new Item(new FabricItemSettings().food(ModFoodComponents.PORK_WITH_ONIONS)));
+
     public static final Item ONION_SEEDS = registerItem("onion_seeds", new AliasedBlockItem(ModBlocks.ONION_CROP, new FabricItemSettings()));
 
     public static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {

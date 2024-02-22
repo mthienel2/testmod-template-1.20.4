@@ -11,12 +11,6 @@
     },
     "age=3": {
       "model": "testmod:block/onion_crop_stage3"
-    },
-    "age=4": {
-      "model": "testmod:block/onion_crop_stage4"
-    },
-    "age=5": {
-      "model": "testmod:block/onion_crop_stage5"
     }
   }
 }

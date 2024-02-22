@@ -10,8 +10,8 @@ import net.minecraft.state.property.IntProperty;
 import net.minecraft.state.property.Properties;
 
 public class OnionCropBlock extends CropBlock {
-    public static final int MAX_AGE = 5;
-    public static final IntProperty AGE = Properties.AGE_5;
+    public static final int MAX_AGE = 3;
+    public static final IntProperty AGE = Properties.AGE_3;
     public OnionCropBlock(Settings settings) {
         super(settings);
     }

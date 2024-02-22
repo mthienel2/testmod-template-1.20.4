@@ -29,7 +29,7 @@ public class ModBlocks {
             new ExperienceDroppingBlock(UniformIntProvider.create(2, 5), FabricBlockSettings.copyOf(Blocks.NETHERRACK).strength(1.5f)));
 
     public static final Block ONION_CROP = Registry.register(Registries.BLOCK, new Identifier(TestMod.MOD_ID, "onion_crop"),
-            new OnionCropBlock(FabricBlockSettings.copyOf(Blocks.WHEAT)));
+            new OnionCropBlock(FabricBlockSettings.copyOf(Blocks.BEETROOTS)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItems(name, block);

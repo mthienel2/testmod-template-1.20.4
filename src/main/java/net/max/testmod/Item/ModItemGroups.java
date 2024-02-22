@@ -24,6 +24,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.NETHER_RUBY_ORE);
                         entries.add(ModItems.ONION);
                         entries.add(ModItems.ONION_SEEDS);
+                        entries.add(ModItems.PORK_WITH_ONIONS);
 
 
                     }).build());

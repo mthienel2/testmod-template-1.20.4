@@ -2,6 +2,7 @@ package net.max.testmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.CompostingChanceRegistry;
 import net.max.testmod.Item.ModItems;
 import net.max.testmod.Item.ModItemGroups;
 import net.max.testmod.block.ModBlocks;
@@ -18,5 +19,7 @@ public class TestMod implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		CompostingChanceRegistry.INSTANCE.add(ModItems.ONION_SEEDS,0.1F);
+		CompostingChanceRegistry.INSTANCE.add(ModItems.ONION, 0.4f);
 	}
 }

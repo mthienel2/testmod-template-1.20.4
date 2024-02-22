@@ -1,6 +1,6 @@
-// 1.20.4	2024-02-21T16:04:32.2876015	Testmod/Block Loot Tables
+// 1.20.4	2024-02-21T22:52:34.5297206	Testmod/Block Loot Tables
 a0c6854f53aff245aaa7f2d611f40b29fe34321c data\testmod\loot_tables\blocks\deepslate_ruby_ore.json
-fcffb62e1c4fd432854ec06a549faa4cf393b836 data\testmod\loot_tables\blocks\onion_crop.json
+720cfe14f796e292bb3d017ab62e9c9282a64adf data\testmod\loot_tables\blocks\onion_crop.json
 f128d56f975f77b844a1224e40caa3255ee70df7 data\testmod\loot_tables\blocks\ruby_block.json
 032dd66e468cfb439a8ce863f36a881d3ce98c93 data\testmod\loot_tables\blocks\nether_ruby_ore.json
 6d6cfc7945cc669753b8839b21b4f02c820222e6 data\testmod\loot_tables\blocks\ruby_ore.json

@@ -36,7 +36,7 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.NETHER_RUBY_ORE, copperLikeOreDrops(ModBlocks.NETHER_RUBY_ORE, ModItems.RAW_RUBY));
 
         BlockStatePropertyLootCondition.Builder builder = BlockStatePropertyLootCondition.builder(ModBlocks.ONION_CROP).properties(StatePredicate.Builder.create()
-                .exactMatch(OnionCropBlock.AGE, 5));
+                .exactMatch(OnionCropBlock.AGE, 3));
         addDrop(ModBlocks.ONION_CROP, cropDrops(ModBlocks.ONION_CROP, ModItems.ONION, ModItems.ONION_SEEDS, builder));
     }
 
